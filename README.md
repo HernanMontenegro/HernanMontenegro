@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/hernanmontenegro/" style="display:flex; align-items:center;" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="python" width="30" height="30"/> <span>&nbsp; Hernan Montenegro </span></a>
 
-<br>
 
 ### Technologies:
 <br>
